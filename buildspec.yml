@@ -14,6 +14,7 @@ phases:
    
 artifacts:
   type: 
+  name: source_output
   files:
     - index.html
     - appspec.yml
